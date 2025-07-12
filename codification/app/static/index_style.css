@@ -1,0 +1,18 @@
+body {
+  background-color: #F5F5F5;
+}
+
+.navbar {
+  background-color: #002E5D;
+}
+
+.navbar-brand, .nav-link {
+  color: white !important;
+}
+
+.hero {
+  background-color: #002E5D;
+  color: white;
+  padding: 100px 20px;
+  text-align: center;
+}
