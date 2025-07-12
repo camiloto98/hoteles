@@ -1,0 +1,21 @@
+body {
+  background-color: #F5F5F5;
+}
+
+.register-container {
+  max-width: 500px;
+  margin: 80px auto;
+  background-color: white;
+  padding: 35px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.btn-hilton {
+  background-color: #002E5D;
+  color: white;
+}
+
+.btn-hilton:hover {
+  background-color: #001a3d;
+}
